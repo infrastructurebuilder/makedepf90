@@ -2,3 +2,11 @@ makedepf90*.tar.gz
 autom4te.cache/
 *.log
 *.status
+*.o
+.depend
+configure
+find_dep.c
+find_dep.h
+lexer.c
+y.tab.c
+makedepf90
